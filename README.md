@@ -1,12 +1,19 @@
 # SAP-TFI-UAI-
-Desarsrollo de la clase de GIT y GITHUB en la que se explicará que es GIT, que es GITHUB, ALternativas a GITHUB y Manejo de GIT.  
+Desarsrollo de la clase de GIT y GITHUB en la que se explicará que es GIT, que es GITHUB, ALternativas a GITHUB y Manejo de GIT desde la terminal.
 
-## FECHA CLASE 19-06-2018
+## FECHA CLASE 19-06-2018 - Git Avanzado y 
 
-Al finalizar esta clase cada uno deberá tener subido a git su proyecto y enviarlo por mail a SAPTFIUAI@GMAIL.COM
+Al finalizar esta clase cada uno debería tener subido a git su proyecto y enviar la url del mismo por mail a alejandro.decastro@uai.edu.ar.
+
+Según las palabras del jefe de cátedra, esta tarea no es obligatória, pero a la hora de corrección se dará prioridad a los alumnos que cumplan con este jercicio.
 
 
-## Ejemplos de todo lo que se puede hacer con el lenguaje de github MARKDOWN
+
+# APRENDIENDO MARKDOWN, El Lenguaje de documentación que usa GITHUB.
+
+
+
+## vamos a los bifes y veamos todo lo que se puede hacer con el lenguaje MARKDOWN
 
 
 
