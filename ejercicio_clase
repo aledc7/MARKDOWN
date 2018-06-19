@@ -1,0 +1,45 @@
+#  Instrucciones para CREAR un repositório en github, y acceder desde la terminal.
+
+1- Instalar GIT localmente
+2- Crearse una cuenta en GITHUB (si es que no la tiene)
+3- Entrar a Github y crear un REPO
+
+
+NOTA: para poder usar github deben correr un par de comandos en la terminal.  Cortesía de David Curras.
+
+Z:\\lppa2018\git proxy
+ver las dos lineas de comando correr en terminal
+
+para abrir el terminal:  tecla Windows + R
+
+
+Verificar estado de git en nuestra PC:
+
+1 - git version
+
+
+2- verificar usuario logueado:
+
+git config --global -l
+
+
+
+3- loguearse cada uno con su usuario
+
+git config --global user.name "mi_usuario"
+git config --global user.email "mi_email@gmail.com"
+
+NOTA: la contraseña de la cuenta de github la debo tener a mano, pues me la pedirá al momento de hacer el push inicial
+
+
+HASTA ACA lo unico que hice fue identificarme localmente en la maquina, ahora debo hacer un push inicial para subir todo mi código.
+
+
+
+
+
+
+
+
+
+
