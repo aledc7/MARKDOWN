@@ -1,5 +1,7 @@
 # SAP-TFI-UAI-
-Desarsrollo de la clase de GIT y GITHUB en la que se explicará que es GIT, que es GITHUB, ALternativas a GITHUB y Manejo de GIT.  FECHA CLASE 19-06-2018
+Desarsrollo de la clase de GIT y GITHUB en la que se explicará que es GIT, que es GITHUB, ALternativas a GITHUB y Manejo de GIT.  
+
+## FECHA CLASE 19-06-2018
 
 Al finalizar esta clase cada uno deberá tener subido a git su proyecto y enviarlo por mail a SAPTFIUAI@GMAIL.COM
 
