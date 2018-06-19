@@ -1,2 +1,143 @@
 # SAP-TFI-UAI-
 Desarsrollo de la clase
+
+
+
+Este es el Lenguaje MARKDOWN que vamos a utilizar en la clase de hoy 19-06-2018 para SAP.
+
+
+
+
+
+
+# Titulo 1 <h1>
+## Titulo 2 <h2>
+### Titulo 3 <h3>
+#### Titulo 4
+##### Titulo 5 <h5>
+###### Titulo 6 <h6>
+  
+  
+  
+  *Este texto estará en itálica*
+_Este texto también estará en itálica_
+
+**Este texto estará en negritas**
+__Este texto también estará en negritas__
+
+*Incluso **puedes** combinarlos*
+
+
+
+Listas desordenadas
+
+* Item 1
+* Item 2
+    * Item 2a
+    * Item 2b
+    
+    
+    
+    
+Listas Ordenadas
+
+1. Item 1
+2. Item 2
+3. Item 3
+    * Item 3a
+    * Item 3b
+    
+    
+    
+    
+    Manejo de Imágenes:
+    
+    
+![GitHub Logo](/images/logo.png)![GitHub
+
+
+
+
+Manejo de Links
+
+1. http://github.com - ¡link automático!
+
+2. [GitHub](http://github.com)
+
+3. [GitHub][id]
+
+4. [GitHub][]
+
+
+
+Link automático - Cualquier dirección explicita será convertida en un link.
+Link en-línea - [Texto del Link](url).
+Link por-referencia - [Texto del Link][id]. el id necesitará ser declarado en otra parte del documento así: [id]: url.
+Link por-referencia automática - El id es el "Texto del Link", y también necesita ser declarado en otra parte del documento de igual manera que el "link por-referencia".
+
+
+
+CITAS:
+
+Esto es un párrafo normal:
+
+> Y aquí está la cita que puede
+> seguir en varios renglones, y tener anidado más
+> > citas así, con un doble signo mayor-que.
+
+
+
+
+Código en Linea
+
+Creo que debería utilizar una etiqueta `<addr>` aquí.
+
+
+
+MANEJO DE SINTAXIS
+
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+
+Identación estilo Python
+
+    function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
+
+
+
+Lista de Tareas
+
+- [x] Soporte de @menciones, #referencias, [links](), **formateo**, y de <del>etiquetas</del>
+- [x] lista de sintaxis requerida (cualquier lista des-ordenada y ordenada es soportada)
+- [x] esta es una tarea completa
+- [ ] esta es una tarea incompleta
+
+
+
+Para referenciar los famosos SHA:
+
+16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
+
+
+
+
+
+aca un tuto mucho ams completo sobre MARKDOWN:
+
+https://github.com/ricval/Documentacion/blob/master/Markdown/daringfireball/basics.md
+
+
+
