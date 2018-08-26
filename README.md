@@ -159,12 +159,12 @@ mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
 Here's our logo (hover to see the title text):
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/aledc7/MARKDOWN/blob/master/aleicon-150x150.jpg "Logo Title Text 1")
 
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://github.com/aledc7/MARKDOWN/blob/master/aleicon-150x150.jpg "Logo Title Text 2"
 
 
 
