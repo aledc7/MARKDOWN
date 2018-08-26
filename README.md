@@ -175,9 +175,9 @@ Colons can be used to align columns.
 
 | las tablas    | Estan         | joya  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| una fila      | right-aligned | $1600 |
+| otra fil      | centered      |   $12 |
+| una mas       | are neat      |    $1 |
 
 Debe haber al menos 3 guiones que separan cada celda de encabezado.
 Los pipes exteriores (|) son opcionales, y no es necesario que la línea de renglon sea perfecta.
@@ -185,7 +185,7 @@ Los pipes exteriores (|) son opcionales, y no es necesario que la línea de reng
 
 Markdown | mas  | feo
 --- | --- | ---
-*Still* | `renders` | **nicely**
+*Destacar* | `renders` | **lindo**
 1 | 2 | 3
 
 
