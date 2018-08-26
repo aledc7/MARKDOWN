@@ -158,12 +158,12 @@ mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
 
 
 Inline-style: 
-![alt text](https://github.com/aledc7/MARKDOWN/blob/master/aleicon-150x150.jpg "Titulo de la foto de Ale DC")
+![alt text](https://github.com/aledc7/MARKDOWN/blob/master/aleicon-150x150.jpg "Sacame el mouse de encima por favor")
 
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/aledc7/MARKDOWN/blob/master/aleicon-150x150.jpg "Titulo de la foto de Ale DC"
+[logo]: https://github.com/aledc7/MARKDOWN/blob/master/aleicon-150x150.jpg "Sacame el mouse de encima por favor"
 
 
 
