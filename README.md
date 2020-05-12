@@ -258,6 +258,20 @@ Reference-style:
 
 ```
 
+## Reducir y centrar imagenes:   
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/excel1.png" width="200"
+</p>
+
+```php
+// Reducir y centrar imagenes (se puede alinear hacia cualquier lado)   
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/excel1.png" width="200"
+</p>
+````
+
+  
+  
 
 
 
