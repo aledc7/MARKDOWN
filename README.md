@@ -23,7 +23,7 @@ Markdown es un lenguaje de marcado ligero creado originalmente por John Gruber y
 Nota: Este documento es una traducción del sitio oficial que está en Inglés daringfireball : basics.
 
 
-
+_______________________________________________________________________________________
 
 
 
@@ -65,9 +65,9 @@ __Este texto también estará en negritas__
 *Incluso **puedes** combinarlos*
 ```
 
+_______________________________________________________________________________________
 
-
-Listas desordenadas
+# Listas desordenadas
 
 * Item 1
 * Item 2
@@ -83,7 +83,7 @@ Listas desordenadas
     
     
     
-Listas Ordenadas
+# Listas Ordenadas
 
 1. Item 1
 2. Item 2
@@ -110,8 +110,8 @@ Listas Ordenadas
 ![GitHub Logo](/images/logo.png)![GitHub]
 ```
 
-
-Manejo de Links
+_______________________________________________________________________________________
+# Manejo de Links
 
 1. http://github.com - ¡link automático!
 
@@ -148,8 +148,8 @@ Link por-referencia automática - El id es el "Texto del Link", y también neces
 
 
 
-
-CITAS:
+_______________________________________________________________________________________
+# CITAS:
 
 Esto es un párrafo normal:
 
@@ -166,7 +166,7 @@ Esto es un párrafo normal:
 
 
 
-Código en Linea
+# Código en Linea
 
 Creo que debería utilizar una etiqueta `<addr>` aquí.
 
@@ -175,8 +175,8 @@ Creo que debería utilizar una etiqueta `<addr>` aquí.
 ```
 
 
-
-MANEJO DE SINTAXIS
+_______________________________________________________________________________________
+# MANEJO DE SINTAXIS
 
 
 ```javascript
@@ -206,8 +206,8 @@ Identación estilo Python
  
 
 
-
-Lista de Tareas
+_______________________________________________________________________________________
+# Lista de Tareas
 
 - [x] Soporte de @menciones, #referencias, [links](), **formateo**, y de <del>etiquetas</del>
 - [x] lista de sintaxis requerida (cualquier lista des-ordenada y ordenada es soportada)
@@ -222,8 +222,8 @@ Lista de Tareas
 ```
 
 
-
-Para referenciar los famosos SHA:
+_______________________________________________________________________________________
+# Para referenciar los famosos SHA:
 
 16c999e8c71134401a78d4d46435517b2271d6ac
 mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
@@ -234,7 +234,7 @@ mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
 mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
 mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
 ```
-
+_______________________________________________________________________________________
 
 ###### Como incluír imágenes:
 
@@ -257,7 +257,7 @@ Reference-style:
 [logo]: https://github.com/aledc7/MARKDOWN/blob/master/aleicon-150x150.jpg "Sacame el mouse de encima por favor"
 
 ```
-
+_______________________________________________________________________________________
 ## Reducir y centrar imagenes:   
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/excel1.png" width="200"
@@ -271,11 +271,9 @@ Reference-style:
 ````
 
   
-  
+ 
 
-
-
-
+_______________________________________________________________________________________
 #### Manejo de Tablas:
 
 Colons can be used to align columns.
@@ -311,7 +309,7 @@ Markdown | mas  | feo
 *Destacar* | `renders` | **lindo**
 1 | 2 | 3
 ```
-
+_______________________________________________________________________________________
 
 ## Poner Colores en el texto plano:
 
@@ -336,6 +334,7 @@ Otra opcion:
 ```
 
 
+_______________________________________________________________________________________
 
 
 
